@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="your_language">لغتك</string>
+    <string name="english">انجليزي</string>
+    <string name="arabic">عربي</string>
+</resources>
